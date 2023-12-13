@@ -31,10 +31,12 @@ python main.py
 ## Classes and Methods
 
 color: A class containing color constants.
+
 draw:
 - pixel(x, y, color): Draws a pixel at the specified coordinates.
 - line(x1, y1, x2, y2, color): Draws a line between two points.
 - box(x1, y1, x2, y2, color): Draws a rectangle.
+  
 dropshadow:
 - box(x1, y1, x2, y2, color, color_shadow): Draws a box with a drop shadow effect.
 - outlined:
