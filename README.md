@@ -15,6 +15,7 @@ Once Python is installed, you need to install the `pywin32` package, which provi
 
 ```bash
 pip install pywin32
+```
 
 ## Usage
 
